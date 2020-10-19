@@ -1,4 +1,4 @@
-// CodinGame Technical Challenge - 
+// CodinGame
 // The problem requires find the largest integer number in an array.
 
 function largestnumber(number) {
