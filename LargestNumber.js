@@ -1,3 +1,6 @@
+// CodinGame Technical Challenge - 
+// The problem requires find the largest integer number in an array.
+
 function largestnumber(number) {
     var numbermayor = 0;
   
