@@ -1,3 +1,4 @@
+// HackerRank
 // An avid hiker keeps meticulous records of their hikes.
 // During the last hike that took exactly steps, 
 // for every step it was noted if it was an uphill, "U",
